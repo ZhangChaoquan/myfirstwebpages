@@ -1,0 +1,16 @@
+*{
+  padding: 0;margin: 0;border: 0;
+}
+.f{
+  color: red;
+}
+.s{
+  color: green;
+}
+
+.head{
+  background-color: yellow;
+}
+.footer{
+  background-color: #ccc;
+}
